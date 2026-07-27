@@ -32,5 +32,3 @@ writeFileSync(
 <p><a href="/env.json">env.json</a></p>
 `
 );
-
-// cache-buster: nonexistent related project test
