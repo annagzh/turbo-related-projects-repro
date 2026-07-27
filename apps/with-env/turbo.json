@@ -3,6 +3,7 @@
   "extends": ["//"],
   "tasks": {
     "build": {
+      "inputs": ["$TURBO_DEFAULT$", "!vercel.json"],
       "outputs": ["dist/**"],
       "env": ["VERCEL_RELATED_PROJECTS"]
     }
