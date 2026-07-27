@@ -1,0 +1,7 @@
+{
+  "name": "without-env",
+  "private": true,
+  "scripts": {
+    "build": "node build.mjs"
+  }
+}

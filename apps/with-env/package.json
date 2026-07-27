@@ -1,0 +1,7 @@
+{
+  "name": "with-env",
+  "private": true,
+  "scripts": {
+    "build": "node build.mjs"
+  }
+}
